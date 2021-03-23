@@ -1,6 +1,10 @@
 # jmeter-prometheus-example
 JMeter prometheus &amp; Grafana setup project
 
+```bash
+jmeter -n -t postcodes.jmx
+```
+
 ![Alt text](docs/img.png)
 
 
