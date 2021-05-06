@@ -7,6 +7,10 @@ jmeter -n -t postcodes.jmx
 
 ![Alt text](docs/img.png)
 
+## Other repo
+
+[jmeter-prometheus-jmx](https://github.com/beemi/jmeter-prometheus-grafana-base)
+
 
 ## :postbox: Contacts
 
